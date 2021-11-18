@@ -1,100 +1,100 @@
-,COURT_CASE,PARTY_ID,VIOLATION_DATE,HOUSED?,STATUTE_DESC,RACE
-293,CR-2018-0000372-BI,232509,2018-01-13 18:20:00,YES,Careless Driving,Indian
-1269,CR-2018-0001449-TI,233281,2018-02-23 19:18:00,YES,Defective Headlight,Indian
-2277,CR-2018-0002518-TI,233976,2018-03-21 10:00:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-2484,CR-2018-0002724-GE,201700,2018-03-29 03:00:00,NO,Camping or Lodging on Property Without Consent,Indian
-2485,CR-2018-0002724-GE,201700,2018-03-29 03:00:00,NO,Maintaining Fires Prohibited,Indian
-2556,CR-2018-0002782-GE,156338,2018-04-02 13:50:00,YES,Trespassing,Indian
-3486,CR-2018-0003729-TI,234673,2018-04-30 16:35:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-3554,CR-2018-0003795-GE,201700,2018-05-03 12:00:00,NO,Trespassing,Indian
-3559,CR-2018-0003800-PE,97030,2018-01-13 12:07:00,YES,Speeding,Indian
-3580,CR-2018-0003820-TI,82731,2018-04-30 10:00:00,YES,Failed to Use Seat Belts as Required,Indian
-4193,CR-2018-0004382-TO,235080,2018-05-23 23:43:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-4263,CR-2018-0004448-GE,201700,2018-05-26 18:05:00,NO,Trespassing,Indian
-4572,CR-2018-0004738-GE,201700,2018-06-07 14:20:00,NO,Trespassing,Indian
-4884,CR-2018-0005040-TI,235500,2018-06-16 14:17:00,YES,Failed to Use Seat Belts as Required,Indian
-5536,CR-2018-0005663-GE,235922,2018-07-08 06:15:00,YES,Unlawful Conduct on Public Property,Indian
-6507,CR-2018-0006581-GE,236514,2018-08-06 14:45:00,YES,Selling or Soliciting Without Required Permit,Indian
-6573,CR-2018-0006648-GE,201700,2018-08-08 22:35:00,NO,Trespassing,Indian
-7352,CR-2018-0007507-TI,237132,2018-08-30 21:40:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-7753,CR-2018-0007969-TO,236514,2018-09-11 12:10:00,YES,Failed to present evidence of insurance,Indian
-7754,CR-2018-0007969-TO,236514,2018-09-11 12:10:00,YES,Valid License Plate Required,Indian
-8020,CR-2018-0008248-TO,237640,2018-09-18 16:38:00,YES,Failed to present evidence of insurance,Indian
-9159,CR-2018-0009456-GE,201700,2018-10-26 07:25:00,NO,Camping or Lodging on Property Without Consent,Indian
-9203,CR-2018-0009513-TO,238452,2018-10-25 12:30:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-9416,CR-2018-0009738-GE,201700,2018-10-29 08:35:00,NO,Camping or Lodging on Property Without Consent,Indian
-9445,CR-2018-0009760-GE,201700,2018-10-31 07:55:00,NO,Camping or Lodging on Property Without Consent,Indian
-9446,CR-2018-0009760-GE,201700,2018-10-31 07:55:00,NO,Littering,Indian
-10423,CR-2018-0010765-TI,239287,2018-12-04 19:20:00,YES,Valid License Plate Required,Indian
-11826,CR-2019-0000893-TI,240167,2019-01-25 19:36:00,YES,Defective Headlight,Indian
-11838,CR-2019-0000902-TI,240173,2019-01-29 08:45:00,YES,Valid License Plate Required,Indian
-12196,CR-2019-0001257-TO,97030,2019-02-04 17:40:00,YES,Failed to present evidence of insurance,Indian
-12485,CR-2019-0001530-TI,240606,2019-02-09 14:40:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-13203,CR-2019-0002260-TI,241055,2019-03-11 10:18:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-13281,CR-2019-0002365-TI,241132,2019-03-19 09:05:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-13282,CR-2019-0002366-TI,236514,2019-03-19 15:01:00,YES,U-Turn Prohibited/Hazardous,Indian
-13524,CR-2019-0002587-TO,241285,2019-03-26 13:45:00,YES,Drove Too Fast for Conditions,Indian
-14234,CR-2019-0003277-TI,241726,2019-04-12 10:00:00,YES,Defective Headlight,Indian
-14287,CR-2019-0003331-GE,221863,2019-04-16 08:14:00,YES,Smoking Prohibited in Public Areas,Indian
-15161,CR-2019-0004183-GE,201700,2019-05-17 13:00:00,NO,Trespassing,Indian
-15541,CR-2019-0004546-GE,201700,2019-05-31 06:00:00,NO,Trespassing,Indian
-15881,CR-2019-0004862-GE,242703,2019-06-10 19:00:00,NO,Building Fires on Public Property,Indian
-15882,CR-2019-0004862-GE,242703,2019-06-10 19:00:00,NO,Travel Restricted to Designated Trails in Habitat ,Indian
-16018,CR-2019-0004996-GE,242703,2019-06-16 08:00:00,NO,Camping or Lodging on Property Without Consent,Indian
-16194,CR-2019-0005158-TI,242929,2019-06-24 09:00:00,YES,Valid License Plate Required,Indian
-16800,CR-2019-0005754-TI,243339,2019-07-09 16:10:00,YES,Failed to Use Seat Belts as Required,Indian
-17023,CR-2019-0005961-GE,243471,2019-07-17 21:01:00,NO,Pedestrian Interference in Roadway Prohibited,Indian
-17417,CR-2019-0006336-TI,243711,2019-07-28 15:20:00,YES,Failed to Use Seat Belts as Required,Indian
-17595,CR-2019-0006506-GE,126228,2019-08-03 07:20:00,NO,Trespassing,Indian
-18239,CR-2019-0007221-GE,244293,2019-08-26 09:45:00,YES,Possession and/or Consumption of Alcohol in Public,Indian
-18240,CR-2019-0007221-GE,244293,2019-08-26 09:45:00,YES,Urinating in Public,Indian
-18271,CR-2019-0007265-GE,201700,2019-08-26 00:58:00,NO,Trespassing,Indian
-18323,CR-2019-0007320-GE,201700,2019-08-25 07:30:00,NO,Camping or Lodging on Property Without Consent,Indian
-18369,CR-2019-0007373-GE,242703,2019-08-27 01:20:00,NO,Camping or Lodging on Property Without Consent,Indian
-18370,CR-2019-0007373-GE,242703,2019-08-27 01:20:00,NO,Trespassing,Indian
-18482,CR-2019-0007482-GE,201700,2019-08-28 07:40:00,NO,Camping or Lodging on Property Without Consent,Indian
-18510,CR-2019-0007530-GE,242703,2019-08-29 01:25:00,NO,Camping or Lodging on Property Without Consent,Indian
-18511,CR-2019-0007530-GE,242703,2019-08-29 01:25:00,NO,Trespassing,Indian
-18592,CR-2019-0007644-GE,242703,2019-08-31 06:32:00,NO,Trespassing,Indian
-18732,CR-2019-0007798-TI,235500,2019-09-02 13:15:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-18806,CR-2019-0007894-GE,126228,2019-09-07 19:29:00,NO,Assault in the 3rd Degree,Indian
-18862,CR-2019-0007973-GE,244293,2019-09-02 17:43:00,YES,Possession and/or Consumption of Alcohol in Public,Indian
-18926,CR-2019-0008053-TI,36215,2019-09-10 09:52:00,YES,Defective Headlight,Indian
-19204,CR-2019-0008401-GE,126228,2019-09-23 07:49:00,NO,Camping or Lodging on Property Without Consent,Indian
-19640,CR-2019-0008941-GE,241285,2019-07-27 19:20:00,YES,Fraudulent Identification Prohibited,Indian
-20159,CR-2019-0009460-GE,201700,2019-10-28 08:05:00,NO,Trespassing,Indian
-20255,CR-2019-0009562-AN,245928,2019-11-03 12:26:00,YES,Violation of City Manager Rule- To Wit: Dogs Off L,Indian
-20446,CR-2019-0009759-GE,201700,2019-11-09 17:18:00,NO,Trespassing,Indian
-20673,CR-2019-0009998-TI,246191,2019-11-03 21:15:00,YES,Vehicle Turning Left Failed to Yield,Indian
-20865,CR-2019-0010197-TI,246314,2019-11-27 21:20:00,YES,Failed to Use Seat Belts as Required,Indian
-21483,CR-2019-0010852-GE,243471,2019-12-26 14:15:00,NO,Assault in the 3rd Degree,Indian
-21752,CR-2020-0000206-TI,246896,2020-01-08 09:18:00,YES,Valid License Plate Required,Indian
-21922,CR-2020-0000424-GE,243471,2019-01-16 19:00:00,NO,Physical Harassment,Indian
-23608,CR-2020-0002223-GE,126228,2020-03-17 15:08:00,NO,Physical Harassment,Indian
-23650,CR-2020-0002258-GE,126228,2020-03-26 18:00:00,NO,Smoking Prohibited in Public Areas,Indian
-23670,CR-2020-0002278-GE,243471,2020-03-29 13:42:00,NO,Assault in the 3rd Degree,Indian
-23734,CR-2020-0002336-GE,126228,2020-04-10 08:00:00,NO,Trespassing,Indian
-23829,CR-2020-0002419-GE,243471,2020-04-16 13:20:00,NO,Trespassing,Indian
-23976,CR-2020-0002552-GE,243471,2020-04-27 20:10:00,NO,Damaging Property of Another,Indian
-24064,CR-2020-0002639-GE,201700,2020-05-02 18:25:00,NO,Possession and/or Consumption of Alcohol in Public,Indian
-24067,CR-2020-0002642-GE,243471,2020-04-25 06:00:00,NO,Camping or Lodging on Property Without Consent,Indian
-24617,CR-2020-0003172-GE,126228,2020-05-14 07:50:00,NO,Camping or Lodging on Property Without Consent,Indian
-24839,CR-2020-0003390-GE,242703,2020-05-21 18:30:00,NO,Possession and/or Consumption of Alcohol in Public,Indian
-24890,CR-2020-0003437-GE,242703,2020-05-23 06:45:00,NO,Camping or Lodging on Property Without Consent,Indian
-24891,CR-2020-0003437-GE,242703,2020-05-23 06:45:00,NO,Trespassing,Indian
-25941,CR-2020-0004449-GE,126228,2020-07-16 14:02:00,NO,Assault in the 3rd Degree,Indian
-26147,CR-2020-0004646-GE,243471,2020-07-23 01:56:00,NO,Camping or Lodging on Property Without Consent,Indian
-26233,CR-2020-0004726-TI,249929,2020-07-30 09:02:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-26261,CR-2020-0004751-TI,235500,2020-07-31 11:30:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-26666,CR-2020-0005164-TO,235922,2020-08-21 11:35:00,YES,Drove Too Fast for Conditions,Indian
-26673,CR-2020-0005172-TI,250238,2020-08-23 12:25:00,YES,Defective Headlight,Indian
-28333,CR-2020-0007103-GE,126228,2020-11-01 02:30:00,NO,Camping or Lodging on Property Without Consent,Indian
-28366,CR-2020-0007135-TO,213929,2020-10-31 09:58:00,YES,Speeding 10 to 19 MPH Over the Limit,Indian
-29015,CR-2020-0007772-GE,126228,2020-11-19 17:45:00,NO,Camping or Lodging on Property Without Consent,Indian
-29092,CR-2020-0007846-GE,126228,2020-11-20 07:05:00,NO,Camping or Lodging on Property Without Consent,Indian
-30515,CR-2021-0000675-TI,252989,2021-01-24 13:55:00,YES,Defective Headlight,Indian
-30749,CR-2021-0000900-TO,253144,2021-02-07 19:48:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-32135,CR-2021-0002187-TI,96470,2021-04-16 10:55:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-32625,CR-2021-0002634-GE,254272,2021-05-12 14:00:00,YES,Possessing Glass Bottles,Indian
-32943,CR-2021-0002933-TI,254498,2021-05-29 18:38:00,YES,Drove Unsafe (Defective) Vehicle,Indian
-33059,CR-2021-0003041-GE,126228,2021-06-02 20:30:00,NO,Brawling,Indian
+COURT_CASE,PARTY_ID,VIOLATION_DATE,HOUSED?,STATUTE_DESC,RACE
+CR-2018-0000372-BI,232509,2018-01-13 18:20:00,YES,Careless Driving,Indian
+CR-2018-0001449-TI,233281,2018-02-23 19:18:00,YES,Defective Headlight,Indian
+CR-2018-0002518-TI,233976,2018-03-21 10:00:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2018-0002724-GE,201700,2018-03-29 03:00:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2018-0002724-GE,201700,2018-03-29 03:00:00,NO,Maintaining Fires Prohibited,Indian
+CR-2018-0002782-GE,156338,2018-04-02 13:50:00,YES,Trespassing,Indian
+CR-2018-0003729-TI,234673,2018-04-30 16:35:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2018-0003795-GE,201700,2018-05-03 12:00:00,NO,Trespassing,Indian
+CR-2018-0003800-PE,97030,2018-01-13 12:07:00,YES,Speeding,Indian
+CR-2018-0003820-TI,82731,2018-04-30 10:00:00,YES,Failed to Use Seat Belts as Required,Indian
+CR-2018-0004382-TO,235080,2018-05-23 23:43:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2018-0004448-GE,201700,2018-05-26 18:05:00,NO,Trespassing,Indian
+CR-2018-0004738-GE,201700,2018-06-07 14:20:00,NO,Trespassing,Indian
+CR-2018-0005040-TI,235500,2018-06-16 14:17:00,YES,Failed to Use Seat Belts as Required,Indian
+CR-2018-0005663-GE,235922,2018-07-08 06:15:00,YES,Unlawful Conduct on Public Property,Indian
+CR-2018-0006581-GE,236514,2018-08-06 14:45:00,YES,Selling or Soliciting Without Required Permit,Indian
+CR-2018-0006648-GE,201700,2018-08-08 22:35:00,NO,Trespassing,Indian
+CR-2018-0007507-TI,237132,2018-08-30 21:40:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2018-0007969-TO,236514,2018-09-11 12:10:00,YES,Failed to present evidence of insurance,Indian
+CR-2018-0007969-TO,236514,2018-09-11 12:10:00,YES,Valid License Plate Required,Indian
+CR-2018-0008248-TO,237640,2018-09-18 16:38:00,YES,Failed to present evidence of insurance,Indian
+CR-2018-0009456-GE,201700,2018-10-26 07:25:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2018-0009513-TO,238452,2018-10-25 12:30:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2018-0009738-GE,201700,2018-10-29 08:35:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2018-0009760-GE,201700,2018-10-31 07:55:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2018-0009760-GE,201700,2018-10-31 07:55:00,NO,Littering,Indian
+CR-2018-0010765-TI,239287,2018-12-04 19:20:00,YES,Valid License Plate Required,Indian
+CR-2019-0000893-TI,240167,2019-01-25 19:36:00,YES,Defective Headlight,Indian
+CR-2019-0000902-TI,240173,2019-01-29 08:45:00,YES,Valid License Plate Required,Indian
+CR-2019-0001257-TO,97030,2019-02-04 17:40:00,YES,Failed to present evidence of insurance,Indian
+CR-2019-0001530-TI,240606,2019-02-09 14:40:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2019-0002260-TI,241055,2019-03-11 10:18:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2019-0002365-TI,241132,2019-03-19 09:05:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2019-0002366-TI,236514,2019-03-19 15:01:00,YES,U-Turn Prohibited/Hazardous,Indian
+CR-2019-0002587-TO,241285,2019-03-26 13:45:00,YES,Drove Too Fast for Conditions,Indian
+CR-2019-0003277-TI,241726,2019-04-12 10:00:00,YES,Defective Headlight,Indian
+CR-2019-0003331-GE,221863,2019-04-16 08:14:00,YES,Smoking Prohibited in Public Areas,Indian
+CR-2019-0004183-GE,201700,2019-05-17 13:00:00,NO,Trespassing,Indian
+CR-2019-0004546-GE,201700,2019-05-31 06:00:00,NO,Trespassing,Indian
+CR-2019-0004862-GE,242703,2019-06-10 19:00:00,NO,Building Fires on Public Property,Indian
+CR-2019-0004862-GE,242703,2019-06-10 19:00:00,NO,Travel Restricted to Designated Trails in Habitat ,Indian
+CR-2019-0004996-GE,242703,2019-06-16 08:00:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2019-0005158-TI,242929,2019-06-24 09:00:00,YES,Valid License Plate Required,Indian
+CR-2019-0005754-TI,243339,2019-07-09 16:10:00,YES,Failed to Use Seat Belts as Required,Indian
+CR-2019-0005961-GE,243471,2019-07-17 21:01:00,NO,Pedestrian Interference in Roadway Prohibited,Indian
+CR-2019-0006336-TI,243711,2019-07-28 15:20:00,YES,Failed to Use Seat Belts as Required,Indian
+CR-2019-0006506-GE,126228,2019-08-03 07:20:00,NO,Trespassing,Indian
+CR-2019-0007221-GE,244293,2019-08-26 09:45:00,YES,Possession and/or Consumption of Alcohol in Public,Indian
+CR-2019-0007221-GE,244293,2019-08-26 09:45:00,YES,Urinating in Public,Indian
+CR-2019-0007265-GE,201700,2019-08-26 00:58:00,NO,Trespassing,Indian
+CR-2019-0007320-GE,201700,2019-08-25 07:30:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2019-0007373-GE,242703,2019-08-27 01:20:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2019-0007373-GE,242703,2019-08-27 01:20:00,NO,Trespassing,Indian
+CR-2019-0007482-GE,201700,2019-08-28 07:40:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2019-0007530-GE,242703,2019-08-29 01:25:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2019-0007530-GE,242703,2019-08-29 01:25:00,NO,Trespassing,Indian
+CR-2019-0007644-GE,242703,2019-08-31 06:32:00,NO,Trespassing,Indian
+CR-2019-0007798-TI,235500,2019-09-02 13:15:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2019-0007894-GE,126228,2019-09-07 19:29:00,NO,Assault in the 3rd Degree,Indian
+CR-2019-0007973-GE,244293,2019-09-02 17:43:00,YES,Possession and/or Consumption of Alcohol in Public,Indian
+CR-2019-0008053-TI,36215,2019-09-10 09:52:00,YES,Defective Headlight,Indian
+CR-2019-0008401-GE,126228,2019-09-23 07:49:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2019-0008941-GE,241285,2019-07-27 19:20:00,YES,Fraudulent Identification Prohibited,Indian
+CR-2019-0009460-GE,201700,2019-10-28 08:05:00,NO,Trespassing,Indian
+CR-2019-0009562-AN,245928,2019-11-03 12:26:00,YES,Violation of City Manager Rule- To Wit: Dogs Off L,Indian
+CR-2019-0009759-GE,201700,2019-11-09 17:18:00,NO,Trespassing,Indian
+CR-2019-0009998-TI,246191,2019-11-03 21:15:00,YES,Vehicle Turning Left Failed to Yield,Indian
+CR-2019-0010197-TI,246314,2019-11-27 21:20:00,YES,Failed to Use Seat Belts as Required,Indian
+CR-2019-0010852-GE,243471,2019-12-26 14:15:00,NO,Assault in the 3rd Degree,Indian
+CR-2020-0000206-TI,246896,2020-01-08 09:18:00,YES,Valid License Plate Required,Indian
+CR-2020-0000424-GE,243471,2019-01-16 19:00:00,NO,Physical Harassment,Indian
+CR-2020-0002223-GE,126228,2020-03-17 15:08:00,NO,Physical Harassment,Indian
+CR-2020-0002258-GE,126228,2020-03-26 18:00:00,NO,Smoking Prohibited in Public Areas,Indian
+CR-2020-0002278-GE,243471,2020-03-29 13:42:00,NO,Assault in the 3rd Degree,Indian
+CR-2020-0002336-GE,126228,2020-04-10 08:00:00,NO,Trespassing,Indian
+CR-2020-0002419-GE,243471,2020-04-16 13:20:00,NO,Trespassing,Indian
+CR-2020-0002552-GE,243471,2020-04-27 20:10:00,NO,Damaging Property of Another,Indian
+CR-2020-0002639-GE,201700,2020-05-02 18:25:00,NO,Possession and/or Consumption of Alcohol in Public,Indian
+CR-2020-0002642-GE,243471,2020-04-25 06:00:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2020-0003172-GE,126228,2020-05-14 07:50:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2020-0003390-GE,242703,2020-05-21 18:30:00,NO,Possession and/or Consumption of Alcohol in Public,Indian
+CR-2020-0003437-GE,242703,2020-05-23 06:45:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2020-0003437-GE,242703,2020-05-23 06:45:00,NO,Trespassing,Indian
+CR-2020-0004449-GE,126228,2020-07-16 14:02:00,NO,Assault in the 3rd Degree,Indian
+CR-2020-0004646-GE,243471,2020-07-23 01:56:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2020-0004726-TI,249929,2020-07-30 09:02:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2020-0004751-TI,235500,2020-07-31 11:30:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2020-0005164-TO,235922,2020-08-21 11:35:00,YES,Drove Too Fast for Conditions,Indian
+CR-2020-0005172-TI,250238,2020-08-23 12:25:00,YES,Defective Headlight,Indian
+CR-2020-0007103-GE,126228,2020-11-01 02:30:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2020-0007135-TO,213929,2020-10-31 09:58:00,YES,Speeding 10 to 19 MPH Over the Limit,Indian
+CR-2020-0007772-GE,126228,2020-11-19 17:45:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2020-0007846-GE,126228,2020-11-20 07:05:00,NO,Camping or Lodging on Property Without Consent,Indian
+CR-2021-0000675-TI,252989,2021-01-24 13:55:00,YES,Defective Headlight,Indian
+CR-2021-0000900-TO,253144,2021-02-07 19:48:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2021-0002187-TI,96470,2021-04-16 10:55:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2021-0002634-GE,254272,2021-05-12 14:00:00,YES,Possessing Glass Bottles,Indian
+CR-2021-0002933-TI,254498,2021-05-29 18:38:00,YES,Drove Unsafe (Defective) Vehicle,Indian
+CR-2021-0003041-GE,126228,2021-06-02 20:30:00,NO,Brawling,Indian
